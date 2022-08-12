@@ -13,3 +13,5 @@ versioning {
 }
 
 # It is my Terraform file to push my Github account S3.tf file
+
+# Thanks for sharing this .tf file. it's gonna be helpfull to create IaaS using terraform.
