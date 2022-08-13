@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Simple script to update Ubuntu
+
+echo "hello new york!"
+echo "welcome to brooklyn"
+
+exit
+
+
